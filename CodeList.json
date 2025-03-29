@@ -28,4 +28,18 @@
     "Name": "CODE",
     "Active": false
   }
+
+  "S7HAVOC": {
+    "Awards": [
+      {
+        "AwardType": "Currency",
+        "Data": {
+          "Amount": 500,
+          "Currency": "Dusty Coins"
+        }
+      }
+    ],
+    "Name": "S7HAVOC",
+    "Active": true
+  }
 }
