@@ -28,7 +28,7 @@
     "Name": "CODE",
     "Active": false
   },
-  "SZN7HAVOC": {
+  "S7HAVOC": {
     "Awards": [
       {
         "AwardType": "Currency",
@@ -39,22 +39,10 @@
       },
       {
         "AwardType": "Product",
-        "Data": 3003597545
-      },
-      {
-        "AwardType": "Product",
-        "Data": 3004038168
-      },
-      {
-        "AwardType": "Product",
-        "Data": 3003597545
-      },
-      {
-        "AwardType": "Product",
-        "Data": 3004038168
+        "Data": 1828652595
       }
     ],
-    "Name": "SZN7HAVOC",
+    "Name": "S7HAVOC",
     "Active": true
   }
 }
