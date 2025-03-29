@@ -26,9 +26,8 @@
       }
     ],
     "Name": "CODE",
-    "Active": false,
+    "Active": false
   },
-
   "S7HAVOC": {
     "Awards": [
       {
@@ -40,6 +39,6 @@
       }
     ],
     "Name": "S7HAVOC",
-    "Active": true,
+    "Active": true
   }
 }
