@@ -28,7 +28,7 @@
     "Name": "CODE",
     "Active": false
   },
-  "S7HAVOC": {
+  "S7-HAVOC": {
     "Awards": [
       {
         "AwardType": "Currency",
@@ -42,7 +42,7 @@
         "Data": 1828652595
       }
     ],
-    "Name": "S7HAVOC",
+    "Name": "S7-HAVOC",
     "Active": true
   }
 }
