@@ -36,6 +36,22 @@
           "Amount": 500,
           "Currency": "Dusty Coins"
         }
+      },
+      {
+        "AwardType": "Product",
+        "Data": 3003597545
+      },
+      {
+        "AwardType": "Product",
+        "Data": 3004038168
+      },
+      {
+        "AwardType": "Product",
+        "Data": 3003597545
+      },
+      {
+        "AwardType": "Product",
+        "Data": 3004038168
       }
     ],
     "Name": "S7HAVOC",
