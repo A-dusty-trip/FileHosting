@@ -43,6 +43,48 @@
       }
     ],
     "Name": "S7-HAVOC",
+    "Active": false
+  },
+  "NEWSTRGE25-TEST": {
+    "Awards": [
+      {
+        "AwardType": "Currency",
+        "Data": {
+          "Amount": 200,
+          "Currency": "BottleCaps"
+        }
+      },
+      {
+        "AwardType": "Product",
+        "Data": 3003597545
+      },
+      {
+        "AwardType": "Product",
+        "Data": 3004038168
+      }
+    ],
+    "Name": "NEWSTRGE25-TEST",
     "Active": true
+  },
+  "NEWSTRGE25": {
+    "Awards": [
+      {
+        "AwardType": "Currency",
+        "Data": {
+          "Amount": 200,
+          "Currency": "BottleCaps"
+        }
+      },
+      {
+        "AwardType": "Product",
+        "Data": 3003597545
+      },
+      {
+        "AwardType": "Product",
+        "Data": 3004038168
+      }
+    ],
+    "Name": "NEWSTRGE25",
+    "Active": false
   }
 }
