@@ -55,13 +55,11 @@
         }
       },
       {
-        "AwardType": "Product",
-        "Data": 3003597545
-      },
-      {
-        "AwardType": "Product",
-        "Data": 3004038168
-      }
+        "AwardType": "Currency",
+        "Data": {
+          "Amount": 250,
+          "Currency": "HighlandTokens"
+        }
     ],
     "Name": "NEWSTRGE25",
     "Active": true
