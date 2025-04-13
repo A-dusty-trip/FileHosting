@@ -64,5 +64,18 @@
     ],
     "Name": "NEWSTRGE25",
     "Active": true
+  },
+  "ROYALRANGERGONESOON512": {
+    "Awards": [
+      {
+        "AwardType": "Currency",
+        "Data": {
+          "Amount": 250,
+          "Currency": "HighlandTokens"
+        }
+      }
+    ],
+    "Name": "ROYALRANGERGONESOON512",
+    "Active": true
   }
 }
