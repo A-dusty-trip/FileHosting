@@ -77,5 +77,18 @@
     ],
     "Name": "ROYALRANGERGONESOON512",
     "Active": true
+  },
+  "20EASTER25": {
+    "Awards": [
+      {
+        "AwardType": "Currency",
+        "Data": {
+          "Amount": 750,
+          "Currency": "EasterEggCurrency"
+        }
+      }
+    ],
+    "Name": "20EASTER25",
+    "Active": true
   }
 }
