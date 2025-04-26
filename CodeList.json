@@ -90,5 +90,18 @@
     ],
     "Name": "20EASTER25",
     "Active": true
+  },
+  "DustyCoins1TEST": {
+    "Awards": [
+      {
+        "AwardType": "Currency",
+        "Data": {
+          "Amount": 800,
+          "Currency": "Dusty Coins"
+        }
+      }
+    ],
+    "Name": "DustyCoins1TEST",
+    "Active": true
   }
 }
