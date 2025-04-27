@@ -91,7 +91,7 @@
     "Name": "20EASTER25",
     "Active": true
   },
-  "DustyCoins1TEST": {
+  "DustyCoins1": {
     "Awards": [
       {
         "AwardType": "Currency",
@@ -101,7 +101,7 @@
         }
       }
     ],
-    "Name": "DustyCoins1TEST",
+    "Name": "DustyCoins1",
     "Active": true
   }
 }
