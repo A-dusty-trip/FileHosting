@@ -103,5 +103,18 @@
     ],
     "Name": "DustyCoins1",
     "Active": true
+  },
+  "DustyCoins2": {
+    "Awards": [
+      {
+        "AwardType": "Currency",
+        "Data": {
+          "Amount": 800,
+          "Currency": "Dusty Coins"
+        }
+      }
+    ],
+    "Name": "DustyCoins2",
+    "Active": true
   }
 }
