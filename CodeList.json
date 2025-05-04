@@ -89,7 +89,7 @@
       }
     ],
     "Name": "20EASTER25",
-    "Active": true
+    "Active": false
   },
   "DustyCoins1": {
     "Awards": [
@@ -104,7 +104,7 @@
     "Name": "DustyCoins1",
     "Active": true
   },
-  "S7GONESOON-TEST": {
+  "S7GONESOON": {
     "Awards": [
       {
         "AwardType": "Currency",
@@ -114,7 +114,7 @@
         }
       }
     ],
-    "Name": "S7GONESOON-TEST",
+    "Name": "S7GONESOON",
     "Active": true
   }
 }
