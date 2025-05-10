@@ -116,5 +116,22 @@
     ],
     "Name": "S7GONESOON",
     "Active": true
-  }
+  },
+  "S8-ACE": {
+    "Awards": [
+      {
+        "AwardType": "Currency",
+        "Data": {
+          "Amount": 350,
+          "Currency": "Dusty Coins"
+        }
+      },
+      {
+        "AwardType": "Product",
+        "Data": 1828652595
+      }
+    ],
+    "Name": "S8-ACE",
+    "Active": true
+  },
 }
